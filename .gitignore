@@ -1,0 +1,10 @@
+
+venv/Lib/site-packages/_distutils_hack/__pycache__/
+
+venv/Lib/site-packages/_distutils_hack/
+
+venv/Lib/site-packages/
+
+.idea/
+
+venv/
